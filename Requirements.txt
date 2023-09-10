@@ -1,0 +1,6 @@
+Pyttsx3
+Selenium
+SpeechRecognition
+Wikipedia
+Webbrowser
+Pyautogui
